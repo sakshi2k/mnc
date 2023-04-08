@@ -1,0 +1,48 @@
+.header-logo {
+    max-width: 55%;
+    vertical-align: inherit;
+}
+
+.footer-logo {
+    margin-top: -35pt;
+    padding-right: 25px;
+}
+/* 
+.footer-logo {
+    margin-top: -15pt;
+} */
+
+.navbar-collapse {
+    margin-top: 2%;
+}
+
+h3 {
+    position: relative;
+    color: #565a5c;
+    font-weight: 500;
+    text-transform: capitalize;
+    font-family: 'Poppins', sans-serif;
+    padding-bottom: 14px;
+    font-size: 18px;
+}
+
+p{
+    font-size: 16px;
+}
+
+li {
+    color: #666666;
+    font-size: 16px;
+    /* font-size: 14px; */
+}
+
+.foot-email {
+    text-transform: lowercase;
+}
+
+#contactus-btn {
+    font-size: 12pt;
+}
+
+
+
