@@ -69,3 +69,7 @@ li {
     background-color: #00d8ff;
     border: #00d8ff;
 }
+
+#client-image {
+    max-width: 72%;
+}
