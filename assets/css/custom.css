@@ -73,3 +73,8 @@ li {
 #client-image {
     max-width: 72%;
 }
+
+.gallery-details {
+    margin-top: 120px;
+    margin-bottom: 109px;
+}
